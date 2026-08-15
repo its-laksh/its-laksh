@@ -5,8 +5,7 @@
 
 - 💬 Ask me about **React, Python, Machine Learning, Data Structures**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19y5r2j3z0n-WCcSRCx1EdQ0SyK_nxJSl/view?usp=drive_link](https://drive.google.com/file/d/19y5r2j3z0n-WCcSRCx1EdQ0SyK_nxJSl/view?usp=drive_link)
-
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/11Lwp4iDW2fBeA-gvoyIyEzdKJLmpZ32I/view?usp=drive_link)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/om-patil-7635b5304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="om-patil-7635b5304" height="30" width="40" /></a>
