@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js, System Design, Advanced DSA**
 
-- 💬 Ask me about **React, Python, Machine Learning, Data Structures**
+- 💬 Ask me about **C++, Python, Machine Learning, Data Structures**
 
 - 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/11Lwp4iDW2fBeA-gvoyIyEzdKJLmpZ32I/view?usp=drive_link)
 <h3 align="left">Connect with me:</h3>
